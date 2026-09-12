@@ -4,4 +4,4 @@
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=rafaelccbr&color=e6d9ff&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-<p>Estudante de Análise e Desenvolvimento de Sistemas na Cruzeiro do Sul</p>
+<p>Estudante de Análise e Desenvolvimento de Sistemas na Fatec</p>
